@@ -3,9 +3,7 @@
   "chain": "Shardeum",
   "icon": "shardeum",
   "rpc": ["https://api.shardeum.org/"],
-  "faucets": [
-    "https://faucet.shardeum.org",
-  ],
+  "faucets": [],
   "nativeCurrency": {
     "name": "Shardeum",
     "symbol": "SHM",
